@@ -1,0 +1,35 @@
+{
+  "name": "Media-Search-using-ReactJS",
+  "version": "1.0.0",
+  "description": "App to search Images and Video using ShutterStock & Flickr API using ReactJS",
+  "engines": {
+    "node": "6.9.5"
+  },    
+  "main": "src/index.js",    
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.6.0",
+    "redux": "^3.5.2",
+    "redux-saga": "^0.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kavishmehta/Media-Search-using-ReactJS"
+  },    
+  "keywords": [
+    "React",
+    "Node"
+  ],
+  "license": "MIT"    
+}
