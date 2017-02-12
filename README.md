@@ -1,4 +1,5 @@
 # Media-Search-using-ReactJS
+<h3><a href="https://react-media-search.herokuapp.com/media-search">Live Preview</a> of the application</h3>
 App to search Images and Video using ShutterStock &amp; Flickr API using ReactJS
 <div style="border-top: 1px solid #eee; border-bottom: 1px solid #eee">
   <h3>To Start Server:</h3>
